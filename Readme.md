@@ -53,7 +53,11 @@ This project aims to:
    * F1-score
 
 ---
+## Demo Video
 
+https://github.com/user-attachments/assets/ffab15a1-99e5-43e9-802f-de5dea58add5
+
+---
 ## 🧠 Core Features
 
 ### 👤 User Features
