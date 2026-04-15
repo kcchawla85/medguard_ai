@@ -114,14 +114,14 @@ We evaluated multiple machine learning models:
 
 ---
 
-## 📈 Model Performance (Example Results)
+## 📈 Model Performance
 
 | Metric    | Score (Approx) |
 | --------- | -------------- |
-| Accuracy  | ~92–95%        |
-| Precision | ~90%           |
-| Recall    | ~88–92%        |
-| F1 Score  | ~89–91%        |
+| Accuracy  | ~91.04%        |
+| Precision | ~51.52%        |
+| Recall    | ~67.33%        |
+| F1 Score  | ~58.37%        |
 
 👉 **XGBoost outperformed all other models**, making it the final choice for deployment.
 
