@@ -1,0 +1,9 @@
+{
+  "best_model": "XGBoost",
+  "selection_priority": [
+    "F1 Score",
+    "Recall",
+    "Precision",
+    "Accuracy"
+  ]
+}
