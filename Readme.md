@@ -268,7 +268,7 @@ medguard_ai/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/medguard-ai.git
+git clone https://github.com/kcchawla85/medguard_ai.git
 cd medguard-ai
 ```
 
